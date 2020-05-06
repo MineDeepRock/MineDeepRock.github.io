@@ -1,5 +1,6 @@
 # About
 BattleField1をリスペクトしたマインクラフトBEサーバー
+[銃の性能一覧](https://minedeeprock.github.io/GunsData)
 
 ## IP,PORT
 Discordに参加してください  
