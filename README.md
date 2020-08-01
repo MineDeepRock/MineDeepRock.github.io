@@ -1,7 +1,7 @@
 # About
 BattleField1をリスペクトしたマインクラフトBEサーバー  
 銃の性能一覧  
-[Handgun](https://minedeeprock.github.io/Handgun)  
+[Handgun](https://minedeeprock.github.io/HandGun)  
 [Revolver](https://minedeeprock.github.io/Revolver)  
 [AssaultRifle](https://minedeeprock.github.io/AssaultRifle)  
 [Shotgun](https://minedeeprock.github.io/Shotgun)  
