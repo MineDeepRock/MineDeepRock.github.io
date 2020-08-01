@@ -1,6 +1,13 @@
 # About
-BattleField1をリスペクトしたマインクラフトBEサーバー
-[銃の性能一覧](https://minedeeprock.github.io/GunsData)
+BattleField1をリスペクトしたマインクラフトBEサーバー  
+銃の性能一覧  
+[Handgun](https://minedeeprock.github.io/Handgun)  
+[Revolver](https://minedeeprock.github.io/Revolver)  
+[AssaultRifle](https://minedeeprock.github.io/AssaultRifle)  
+[Shotgun](https://minedeeprock.github.io/Shotgun)  
+[SMG](https://minedeeprock.github.io/SMG)  
+[LMG](https://minedeeprock.github.io/LMG)  
+[SniperRifle](https://minedeeprock.github.io/SniperRifle)  
 
 ## IP,PORT
 Discordに参加してください  
@@ -43,7 +50,7 @@ Discordに参加してください
 時間が立つと冷却され、再度撃つことができます。
 
 ## ゲームモード
-チームドミネーション
+チームドミネーション  
 チームデスマッチ
 
 ## 蘇生
