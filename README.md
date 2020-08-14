@@ -8,6 +8,7 @@ BattleField1をリスペクトしたマインクラフトBEサーバー
 [SMG](https://minedeeprock.github.io/SMG)  
 [LMG](https://minedeeprock.github.io/LMG)  
 [SniperRifle](https://minedeeprock.github.io/SniperRifle)  
+[DMR](https://minedeeprock.github.io/DMR)  
 
 ## IP,PORT
 Discordに参加してください  
