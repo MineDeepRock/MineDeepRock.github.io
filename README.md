@@ -1,6 +1,7 @@
 # MineDeepRock
 [銃鯖について](https://minedeeprock.github.io/GunServer)  
-[人狼鯖について](https://minedeeprock.github.io/Deceit)  
+[Deceit鯖について](https://minedeeprock.github.io/Deceit)  
+[TheFuelWarについて](https://minedeeprock.github.io/TheFuelWar)  
 
 
 ## IP,PORT
