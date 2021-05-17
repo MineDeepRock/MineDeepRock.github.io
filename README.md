@@ -1,4 +1,6 @@
 # MineDeepRock
+現在休止中
+
 [銃鯖について](https://minedeeprock.github.io/GunServer)  
 [Deceit鯖について](https://minedeeprock.github.io/Deceit)  
 [TheFuelWarについて](https://minedeeprock.github.io/TheFuelWar)  
